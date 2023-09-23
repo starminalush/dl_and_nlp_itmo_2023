@@ -3,5 +3,5 @@
 Из корня репозитория выполнить следующие команды:
 ```
 pip install -r hw1/requirements.txt
-pip setup.py install
+python setup.py install
 ```
